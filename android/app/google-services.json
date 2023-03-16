@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211059688733",
+    "project_id": "cablepayment-d0f2a",
+    "storage_bucket": "cablepayment-d0f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211059688733:android:8fd439ae6521e872dd8df4",
+        "android_client_info": {
+          "package_name": "com.example.cable_payments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211059688733-kvev8vj54dc8p5t80emsbcjleq7qc7hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUCwz7k_1P8ai1edqy1I3W0NOhNTEOD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211059688733-kvev8vj54dc8p5t80emsbcjleq7qc7hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
